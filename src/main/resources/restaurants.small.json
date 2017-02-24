@@ -1,0 +1,10 @@
+{"_id":{"$oid":"55cba2476c522cafdb053add"},"location":{"coordinates":[-73.856077,40.848447],"type":"Point"},"name":"Morris Park Bake Shop","rating":5}
+{"_id":{"$oid":"55cba2476c522cafdb053ade"},"location":{"coordinates":[-73.961704,40.662942],"type":"Point"},"name":"Wendy'S", "rating":4}
+{"_id":{"$oid":"55cba2476c522cafdb053adf"},"location":{"coordinates":[-73.98241999999999,40.579505],"type":"Point"},"name":"Riviera Caterer", "rating":5}
+{"_id":{"$oid":"55cba2476c522cafdb053ae0"},"location":{"coordinates":[-73.8601152,40.7311739],"type":"Point"},"name":"Tov Kosher Kitchen", "rating":3}
+{"_id":{"$oid":"55cba2476c522cafdb053ae1"},"location":{"coordinates":[-73.8803827,40.7643124],"type":"Point"},"name":"Brunos On The Boulevard", "rating":4}
+{"_id":{"$oid":"55cba2476c522cafdb053ae2"},"location":{"coordinates":[-73.98513559999999,40.7676919],"type":"Point"},"name":"Dj Reynolds Pub And Restaurant", "rating":2}
+{"_id":{"$oid":"55cba2476c522cafdb053ae3"},"location":{"coordinates":[-73.9068506,40.6199034],"type":"Point"},"name":"Wilken'S Fine Food", "rating":1}
+{"_id":{"$oid":"55cba2476c522cafdb053ae4"},"location":{"coordinates":[-74.00528899999999,40.628886],"type":"Point"},"name":"Regina Caterers", "rating":-1}
+{"_id":{"$oid":"55cba2476c522cafdb053ae5"},"location":{"coordinates":[-73.9482609,40.6408271],"type":"Point"},"name":"Taste The Tropics Ice Cream","rating":5}
+{"_id":{"$oid":"55cba2476c522cafdb053ae6"},"location":{"coordinates":[-74.1377286,40.6119572],"type":"Point"},"name":"Kosher Island", "rating":0}
